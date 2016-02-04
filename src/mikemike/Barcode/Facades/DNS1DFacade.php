@@ -1,6 +1,6 @@
 <?php
 
-namespace Dinesh\Barcode\Facades;
+namespace Mikemike\Barcode\Facades;
 
 use Illuminate\Support\Facades\Facade;
 

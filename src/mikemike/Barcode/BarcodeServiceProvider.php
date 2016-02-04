@@ -1,6 +1,6 @@
 <?php
 
-namespace Dinesh\Barcode;
+namespace Mikemike\Barcode;
 
 use Illuminate\Support\ServiceProvider;
 

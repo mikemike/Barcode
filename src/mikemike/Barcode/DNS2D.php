@@ -1,10 +1,10 @@
 <?php
 
-namespace Dinesh\Barcode;
+namespace Mikemike\Barcode;
 
-use Dinesh\Barcode\QRcode;
-use Dinesh\Barcode\Datamatrix;
-use Dinesh\Barcode\PDF417;
+use Mikemike\Barcode\QRcode;
+use Mikemike\Barcode\Datamatrix;
+use Mikemike\Barcode\PDF417;
 use Illuminate\Support\Str;
 use Illuminate\Contracts\Config\Repository as ConfigRepository;
 

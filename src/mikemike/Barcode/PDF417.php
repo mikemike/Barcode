@@ -1,6 +1,6 @@
 <?php
 
-namespace Dinesh\Barcode;
+namespace Mikemike\Barcode;
 
 // File name   : PDF417.php
 // Author      : Dinesh Rabara

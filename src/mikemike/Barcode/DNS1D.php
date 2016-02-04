@@ -1,6 +1,6 @@
 <?php
 
-namespace Dinesh\Barcode;
+namespace Mikemike\Barcode;
 
 use Illuminate\Support\Str;
 use Illuminate\Contracts\Config\Repository as ConfigRepository;
